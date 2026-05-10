@@ -113,5 +113,3 @@ The project demonstrates how Excel can be used to build a professional and fully
 Krishna
 LinkedIn: https://www.linkedin.com/in/krishna-krishna-26a106231/
 
-GitHub: https://github.com/your-username
-LinkedIn: https://linkedin.com/in/your-profile
