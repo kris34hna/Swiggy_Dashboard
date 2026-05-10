@@ -14,19 +14,10 @@ An Excel-based dashboard that transforms raw Swiggy order data into actionable i
 
 This project is a complete data analysis and dashboarding solution built entirely in Microsoft Excel. Using a large Swiggy dataset containing over 197,000 records, the dashboard provides insights into:
 
-Total Sales
-Average Ratings
-Average Order Value
-Total Orders
-Sales Trends (Monthly, Daily, Weekly)
-Top Cities by Sales
-State-wise Sales Distribution
-Food Type Analysis (Veg vs Non-Veg)
+Total Sales, Average Ratings, Average Order Value, Total Orders, Sales Trends (Monthly, Daily, Weekly), Top Cities by Sales, State-wise Sales Distribution, Food Type Analysis (Veg vs Non-Veg)
 
 The dashboard is interactive and includes slicers for filtering by:
-Month
-Category
-Restaurant Name
+Month, Category, Restaurant Name,
 
 # Problem Statement
 
@@ -42,60 +33,25 @@ Which states contribute the most revenue?
 
 # Dataset
 
-Columns in Dataset
-State
-City
-Order Date
-Day
-Quarter
-Week
-Restaurant Name
-Location
-Category
-Dish Name
-Food Type
-Price (INR)
-Rating
-Rating Count
+Columns in Dataset: State, City, Order Date, Day, Quarter, Week, Restaurant Name, Location, Category, Dish Name, Food Type, Price (INR), Rating, Rating Count
 
 
 # Tools and Technologies Used
 
-Tool	                             Purpose
-Microsoft Excel	        Data Analysis, Dashboard Creation
-Pivot Tables	                 Data Aggregation
-Pivot Charts	                  Visualizations
-Slicers	                     Interactive Filtering
-Conditional Formatting	     Highlighting Key Metrics
-Map Charts	                 State-wise Sales Analysis
+Tool	                            
+Microsoft Excel	- Data Analysis, Dashboard Creation,   Pivot Tables - Data Aggregation,   Pivot Charts - Visualizations,   Slicers	- Interactive Filtering,   conditional Formatting - Highlighting Key Metrics,   Map Charts - State-wise Sales Analysis                
 
 # Methods Used
 
-Created analysis fields:
-Month
-Quarter
-Week
-Day
-Data Analysis
+Created analysis fields:  Month, Quarter, Week, Day
 
-Used Pivot Tables to calculate:
-Total Sales
-Average Rating
-Average Order Value
-Total Orders
-Top Cities
-Quarterly Summary
+Data Analysis:  Total Sales, Average Rating, Average Order Value, Total Orders, Top Cities, Quarterly Summary,
 
 Dashboard Design:
 Built KPI cards, charts, and slicers for interactive exploration.
 
-# Dashboard KPIs
-KPI	                   Value
-Total Sales	          ₹53.01M
-Average Rating	        4.34
-Average Order Value	  ₹268.51
-Rating Count	          5.59M
-Total Orders	         197.43k
+# Dashboard KPIs	                   
+Total Sales - ₹53.01M, Average Rating - 4.34, Average Order Value	- ₹268.51, Rating Count	- 5.59M, Total Orders - 197.43K
 
 # Key Insights
 Bengaluru is the highest revenue-generating city.
