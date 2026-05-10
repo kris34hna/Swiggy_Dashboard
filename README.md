@@ -7,7 +7,11 @@ An interactive Excel dashboard analyzing Swiggy's sales performance across citie
 This dashboard is built entirely in Microsoft Excel using Pivot Tables, Charts, and Slicers. It provides a comprehensive view of Swiggy's business performance through clean, interactive visuals — no external tools required.
 
 # Key Metrics
-MetricValue💰 Total Sales₹53.01M⭐ Average Rating4.34🧾 Avg Order Value₹268.51📝 Rating Count5.59M📦 Total Orders197.43K
+ Total Sales -  ₹53.01M
+ Average Rating  -  4.34
+ Avg Order Value  -  ₹268.51
+ Rating Count  -  5.59M
+ Total Orders  -  197.43K
 
 # Dashboard Sections
 1. Monthly Sales Trend — Line chart tracking revenue from January through August.
