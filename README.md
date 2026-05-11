@@ -38,8 +38,14 @@ Columns in Dataset: State, City, Order Date, Day, Quarter, Week, Restaurant Name
 
 # Tools and Technologies Used
 
-Tool	                            
-Microsoft Excel	- Data Analysis,   Pivot Tables - Data Aggregation,   Pivot Charts - Visualizations,   Slicers	- Interactive Filtering,   conditional Formatting - Highlighting Key Metrics,   Map Charts - State-wise Sales Analysis                
+|             Tool	          |           Purpose              |
+|-----------------------------|--------------------------------|
+|        Microsoft Excel	    |          Data Analysis         |
+|         Pivot Tables        |         Data Aggregation       |
+|         Pivot Charts        |         Visualizations         |
+|           Slicers	          |      Interactive Filtering     |
+|     Conditional Formatting  |     Highlighting Key Metrics   |
+|          Map Charts         |     State-wise Sales Analysis  |                
 
 # Methods Used
 
