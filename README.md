@@ -72,6 +72,12 @@ The project demonstrates how Excel can be used to build a professional and fully
 
 # Author & Contact
 
-Krishna
-LinkedIn: https://www.linkedin.com/in/krishna-krishna-26a106231/
+| | |
+|--|--|
+|**Name** | KRISHNA |
+|**LinkedIn** | www.linkedin.com/in/krishna-prajapati-26a106231 |
+|**GitHub** | https://github.com/ |
+
+
+⭐ **If you found this project helpful, consider giving it a star!**
 
